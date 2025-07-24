@@ -1,0 +1,1 @@
+Minimal implementation of Steven White's gausslet basis set using Quiqbox.jl and custom integral functions. Also has restricted Hartree-Fock SCF for ERI tensors with diagonal approximation. Still a work in progress.
